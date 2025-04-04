@@ -1,16 +1,21 @@
-# cop_music
+# COP Hymnal
 
-A new Flutter project.
+A mobile app for the songs of the Church of Pentecost.
 
-## Getting Started
+## Features
+* Browse the songs of the Church of Pentecost
+* Search the songs of the Church of Pentecost
+* Get the lyrics of songs of the Church of Pentecost
+* Share the songs of the Church of Pentecost
+* Download the songs of the Church of Pentecost
+* Bookmark the songs of the Church of Pentecost
 
-This project is a starting point for a Flutter application.
+## Packages
+State Management:
+* [GetX] 
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
+Contributions are welcome. Please open an issue or a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
